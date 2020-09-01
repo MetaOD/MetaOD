@@ -1,0 +1,1 @@
+../../../data/person.png
